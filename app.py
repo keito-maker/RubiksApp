@@ -59,7 +59,7 @@ def classify_pixel(rgb):
 # =========================
 # Streamlit UI
 # =========================
-st.title("モザイク化ルービックアプリ")
+st.title("モザイク化ルービックキューブアートアプリ")
 st.write("画像をアップロードするとモザイク化されます。")
 
 uploaded_file = st.file_uploader("画像を選択してください", type=["jpg", "png", "jpeg"])
