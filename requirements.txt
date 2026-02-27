@@ -1,2 +1,5 @@
-scikit-image
 streamlit
+opencv-python
+numpy
+pillow
+rembg
