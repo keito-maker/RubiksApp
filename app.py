@@ -340,6 +340,6 @@ if uploaded_file:
         st.download_button(
             label="📄 PDF化",
             data=pdf_buffer,
-            file_name="rubik_mosaic_block_gap.pdf",
+            file_name="rubik_mosaic.pdf",
             mime="application/pdf",
         )
